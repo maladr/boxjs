@@ -90,7 +90,7 @@
         "final": "GLOBAL",
     "rules": [
             {
-        "type": "domain",
+        "type": "geosite",
         "domain": [
           "wogg.com",
           "wogg.bf"
