@@ -89,6 +89,13 @@
         "auto_detect_interface": true,
         "final": "GLOBAL",
     "rules": [
+            {
+        "type": "domain",
+        "domain": [
+          "wogg.com",
+          "wogg.bf"
+        ],
+        "outbound": "direct"
       { "type": "logical", "mode": "or", "rules": [{ "port": 53 }, { "protocol": "dns" }], "outbound": "dns-out" },
       { "clash_mode": "direct", "outbound": "🎯 全球直连" },
       { "clash_mode": "global", "outbound": "GLOBAL" },
