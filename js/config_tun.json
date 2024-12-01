@@ -96,7 +96,7 @@
       { "type": "logical", "mode": "or", "rules": [{ "port": 53 }, { "protocol": "dns" }], "outbound": "dns-out" },
       { "clash_mode": "direct", "outbound": "🎯 全球直连" },
       { "clash_mode": "global", "outbound": "GLOBAL" },
-      { "domain": ["clash.razord.top", "yacd.metacubex.one", "yacd.haishan.me", "d.metacubex.one"], "outbound": "🎯 全球直连" },
+      { "domain": ["clash.razord.top", "yacd.metacubex.one", "yacd.haishan.me", "d.metacubex.one", "emby.xiaoya.pro" ,"icyou.eu.org" ,"lanyuewan.cnf" ,"emby.8.net.co" ,"emby.raydoom.tk" ,"emby.kaiserver.uk" ,"embyxiaoya.laogl.top" ,"emby-data.poxi1221.eu.org" ,"emby-data.ermaokj.cn" ,"emby-data.bdbd.fun" ,"emby-data.wwwh.eu.org" ,"emby-data.f1rst.top" ,"emby-data.ymschh.top" ,"emby-data.wx1.us.kg" ,"emby-data.r2s.site" ,"emby-data.neversay.eu.org" ,"emby-data.800686.xyz"], "outbound": "🎯 全球直连" },
       { "rule_set": ["geosite-private", "geoip-private"], "outbound": "🎯 全球直连" },
       { "rule_set": "geosite-chat", "outbound": "🤖 OpenAI" },
       { "rule_set": "geosite-github", "outbound": "👨‍💻 Github" },
