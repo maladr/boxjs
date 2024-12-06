@@ -24,6 +24,25 @@ IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
+# xiaoya
+DOMAIN-SUFFIX,emby.xiaoya.pro
+DOMAIN-SUFFIX,icyou.eu.org
+DOMAIN-SUFFIX,lanyuewan.cnf
+DOMAIN-SUFFIX,emby.8.net.co
+DOMAIN-SUFFIX,emby.raydoom.tk
+DOMAIN-SUFFIX,emby.kaiserver.uk
+DOMAIN-SUFFIX,embyxiaoya.laogl.top
+DOMAIN-SUFFIX,emby-data.poxi1221.eu.org
+DOMAIN-SUFFIX,emby-data.ermaokj.cn
+DOMAIN-SUFFIX,emby-data.bdbd.fun
+DOMAIN-SUFFIX,emby-data.wwwh.eu.org
+DOMAIN-SUFFIX,emby-data.f1rst.top
+DOMAIN-SUFFIX,emby-data.ymschh.top
+DOMAIN-SUFFIX,emby-data.wx1.us.kg
+DOMAIN-SUFFIX,emby-data.r2s.site
+DOMAIN-SUFFIX,emby-data.neversay.eu.org
+DOMAIN-SUFFIX,emby-data.800686.xyz
+
 
 # 360
 DOMAIN-SUFFIX,360.com
